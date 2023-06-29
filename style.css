@@ -1,0 +1,8 @@
+body{
+    background-color: aliceblue;
+}
+
+#firstpic {
+    max-height: 300px;
+    max-width: 200px;
+}
